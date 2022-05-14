@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="m-auto">
+<div align="center">
 <br>
 <br>
 
