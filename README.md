@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamebacon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 <br><br>
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamebacon&theme=radical)
   
   </div>
