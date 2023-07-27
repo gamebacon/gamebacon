@@ -1,7 +1,7 @@
 <h1
   align="center"
 >
-  👋 Hi! Im William
+  👋 Hello code lurker, Im William!
 </h1>
 <p
   align="center"
