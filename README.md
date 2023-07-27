@@ -1,13 +1,9 @@
 <h1
   align="center"
 >
-  Hi 👋 Im William
+  Hi 👋 Im William, You'll find some of my public projects below, enjoy!
+
 </h1>
-<h2
-  align="center"
->
-  You'll find some of my public projects below, enjoy!
-</h2>
 </br>
 </br>
 <p align="center">
