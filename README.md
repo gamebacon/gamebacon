@@ -1,7 +1,7 @@
 <h1
   align="center"
 >
-  👋 Hello code lurker ✌️
+  👋 Hello code lurker
 </h1>
 <h2
   align="center"
