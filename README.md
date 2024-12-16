@@ -11,8 +11,8 @@ loading... </h2>
 </br>
 <p align="center">
   <img
-    height=64
-    width=64
+    height=32
+    width=32
     align="center"
     src="https://share.sainnhe.dev/~loading.gif"
     alt="Loading"
