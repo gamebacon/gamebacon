@@ -3,10 +3,6 @@
 >
   👋 Hello code lurker
 </h1>
-<h2
-  align="center"
-  >
-loading... </h2>
 </br>
 </br>
 <p align="center">
