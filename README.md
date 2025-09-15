@@ -1,4 +1,4 @@
-<p><i>It’s not a bug; it’s an undocumented feature</i></p>
+<h2><i>It’s not a bug; it’s an undocumented feature</i></h2>
 </br>
 </br>
 <p align="center">
