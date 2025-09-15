@@ -1,7 +1,7 @@
 <h1
   align="center"
 >
-  👋 Hello code lurker
+  its not a bug, its a feature
 </h1>
 </br>
 </br>
