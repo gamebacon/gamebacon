@@ -1,8 +1,7 @@
-<h1
+<i
   align="center"
 >
-  its not a bug, its a feature
-</h1>
+It’s not a bug; it’s an undocumented feature</i>
 </br>
 </br>
 <p align="center">
